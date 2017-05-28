@@ -2,7 +2,7 @@ topic weight
 {"id":123, "weight":5.42}
 
 topic location
-{"id":123, "long":5.42, "lat":6.42}
+{"id":123, "longitude":5.42, "latitude":6.42}
 
 topic data
 {"id":123, "temp_in":5.42, "temp_out":6.42, "humidity_in":6.42, "humidity_out":6.42, "bees_count":2500, "timestamp":12342132}
