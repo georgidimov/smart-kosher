@@ -1,0 +1,8 @@
+конфигурация:
+* wifi мрежа
+* dhcp / static ip
+    * ip
+    * маска
+    * gateway
+* mac address
+* ntp server(default)
