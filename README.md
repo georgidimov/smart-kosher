@@ -2,7 +2,7 @@
 
 # ThingSpeak channels
 * [weight](https://thingspeak.com/channels/279030)
-* [battey](https://thingspeak.com/channels/279876)
+* [battery](https://thingspeak.com/channels/279876)
 * [location](https://thingspeak.com/channels/279076)
 * [data](https://thingspeak.com/channels/279086)
 
