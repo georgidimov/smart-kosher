@@ -8,7 +8,7 @@
 
 # Apache Spark cluster
 
-* [master](http://alpha.gnus.fccf.net:8080/)
+* **[master](http://alpha.gnus.fccf.net:8080/)**
 * [alpha](alpha.gnus.fccf.net)
 * [bravo](bravo.gnus.fccf.net)
 * [charlie](charlie.gnus.fccf.net)
